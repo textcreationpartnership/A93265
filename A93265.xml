@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lamentation for the lost sheep of the house of Israel. With an invitation to have them turne in their minds to the true shepheard of the souls. Also something in discovery of the nakednesse of all professions who are found in the words without the life and power. / Written by one of the children of the light, who is known to the world by the name of Martha Simmons.</title>
+            <author>Simmonds, Martha.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93265</idno>
+            <idno type="STC">Wing S3791</idno>
+            <idno type="STC">Thomason E855_2</idno>
+            <idno type="STC">ESTC R207517</idno>
+            <idno type="EEBO-CITATION">99866561</idno>
+            <idno type="PROQUEST">99866561</idno>
+            <idno type="VID">168329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93265)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168329)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 129:E855[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lamentation for the lost sheep of the house of Israel. With an invitation to have them turne in their minds to the true shepheard of the souls. Also something in discovery of the nakednesse of all professions who are found in the words without the life and power. / Written by one of the children of the light, who is known to the world by the name of Martha Simmons.</title>
+                  <author>Simmonds, Martha.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert at the Blackspread Eagle at the West end of Pauls.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob. 20.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168329:1" rendition="simple:additions"/>
+            <p>A LAMENTATION FOR THE Loſt Sheep Of the Houſe of ISRAEL.</p>
+            <p>With an Invitation to have them turne in their minds to the true Shepheard of their ſouls.</p>
+            <p>
+               <hi>ALSO</hi> Something in diſcovery of the nakedneſſe of all profeſſions who are found in the words without the life and power.</p>
+            <p>Written by one of the children of the Light, who is known to the world by the name of MARTMA SIMMONS.</p>
+            <q>
+               <p>I have ſeene alſo in the Prophets of <hi>Jeruſalem</hi> a horrible thing, they commit adultery, and walke in lies; they ſtrengthen alſo the hand of evill doers, that none doth return from his wicked<g ref="char:EOLhyphen"/>neſſe; they are all of them unto me as <hi>Sodom,</hi> and the inhabi<g ref="char:EOLhyphen"/>tants thereof as <hi>Gomorah,</hi>
+               </p>
+               <bibl>Jer. 23.14.</bibl>
+            </q>
+            <q>
+               <p>Awake awake put on thy ſtrength O <hi>Sion,</hi> put on thy beautifull garments O <hi>Jeruſalem,</hi> the holy City, for henceforth there ſhall no more come into thee the uncircumciſed and the unclean,</p>
+               <bibl>Iſa. 52.1.</bibl>
+            </q>
+            <p>
+               <add>Octob: 20</add> 
+               <hi>LONDON:</hi> Printed for <hi>Giles Calvert</hi> at the Blackſpread Eagle at the Weſt end of <hi>Pauls.</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168329:2"/>
+            <pb n="1" facs="tcp:168329:2" rendition="simple:additions"/>
+            <head>A LAMENTATION For the loſt Sheep of the Houſe of <hi>Iſrael.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>H <hi>England England</hi> when art thou; groping in the darke and ſtumbling at noon day; art thou grown ſo high in thy fallen wiſdome, and in the pride of thy heart, that thou canſt not ſtoop to a meaſure of God in thee? thou high profeſſor, and thou wilde wan<g ref="char:EOLhyphen"/>ton one, thou runſt to faſt over the field to finde the Pearle; there is a Royall Diadem hid in thy uncleane heart, which never conſented to the evill thereof; Oh that thou wouldſt harken to it that thy inward eye might be opened, then wouldſt thou ſee the beauty of it: ſure<g ref="char:EOLhyphen"/>ly if thou didſt but ſee thy ſoule in death, and a meaſure of the light and life of Jeſus there, checking, calling, and knocking, to have thee turne in thy minde to it, that thou mayeſt be purged and oleanſed, and that it may ſhine forth and bring up thy ſoule out of the horrible pit; then wouldſt thou begin to know indeed what pure redempti<g ref="char:EOLhyphen"/>on is: And here mayeſt thou come to ſee that faith which purifies the heart, which is the reall ſubſtance of things hoped for, and this would be of more value to thee then thouſands of Gold and Silver: Oh vaine and foo<g ref="char:EOLhyphen"/>liſh
+<pb n="2" facs="tcp:168329:3"/>man and woman that maketh not God thy truſt, but truſts in the arme of fleſh, and in the multitude of thy con<g ref="char:EOLhyphen"/>ceivings; how ſoone art thou affrighted and paleneſſe ſtrikes thee in the face, and the leaſt ſtirring or ruſhing in the creation makes thy knees ſmite together and thy coun<g ref="char:EOLhyphen"/>tenance fall, and this is becauſe thou art in <hi>Caines</hi> conditi<g ref="char:EOLhyphen"/>on, and haſt no habitation in God; and though thou mayeſt offer a Sacrifice, and pray, and cry, and confeſſe thy ſinnes, and cover the Alter with teares, and give thy body to be burnt, it in that nature it is not accep<g ref="char:EOLhyphen"/>ted. But this I ſhall ſay to thee, Oh that thou couldſt but hear; if thou wouldſt but ſubmit thy neck to the yoak of Chriſt, the meaſure of him in thee, that thou mayeſt ſee him to work in thee and thy own workes laid aſide, thou wouldſt finde more peace and ſatisfaction both to ſoule and body; and then ſhouldſt thou ſee him who is the Rock of ages to be thy Rock, and ſtrong defence, and then ſhouldſt thou ſee a war begin contrary to thy will and him that brings into the war and carries through, and then there would be no<g ref="char:EOLhyphen"/>thing to doe on thy part but to ſtand ſtill and keep thy minde in, girt up to him that workes, and then thou wilt come to ſee what it is to follow the Lamb through the tri<g ref="char:EOLhyphen"/>bulation; but if thou wilt not improve thy meaſure of Light, but wilt run on in thy headſtrong rebellion againſt that little ſecret love that checks thee in private, and ſhewes thee thy heart when none elſe can, and if thou ſlight this day of ſmall things, then will this precious Pearl, the meaſure of Light, be taken from thee and given to him that is more worthy; and the gnawing worme will enter into thee, which will never die, but will torment thee to all eternity, and then wilt thou be ſhut up in dark<g ref="char:EOLhyphen"/>neſſe and unbeliefe; where thou mayeſt ſay to thy ſoule, <hi>take thy thine eaſe, eate drink and be merry, for to morrow ſhall be as this day,</hi> and much more; but thou foole in this night, of thy darkneſſe, ſhall thy ſoule be taken from thee, and then what will thy ſmall time of pleaſures doe thee
+<pb n="3" facs="tcp:168329:3"/>good? will they not ad to thy torment? therefore I coun<g ref="char:EOLhyphen"/>ſell thee to priſe thy time, and be ſtill and ſtaid and ſeek dilligently for that meſſenger, who is one of a thouſand, who brings the glad tidings, who is the true teacher that cannot be removed into a corner, the corner ſtone, who if thou abide will break thy heart to peeces, and will con<g ref="char:EOLhyphen"/>vince thee of thy ſinne, and of thy righteouſneſſe, and bring his pure Judgements upon it, that his r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghteouſneſſe may appear.</p>
+            <p>And now to you high Prieſts of this Nation; and tea<g ref="char:EOLhyphen"/>chers of all ſorts of opinions, who have been groping and hunting in your wiſdome to finde out that precious Pearle to defile in your filthy nature; but you have not yet found it, nor cannot finde the doore to enter into the kingdome, nor get your ſtarved hearers a little bread of aſſurance of eternal life; only this you can do to ad to your condem<g ref="char:EOLhyphen"/>nation, gather up the Saints conditions of ſufferings and patience, who were perſecuted by the ſame proud high flowne nature that you are in, and you add your meanings to them, and ſo bring the curſes that are written in that book upon your heads, it is time for you now, ſeeing you cannot finde a way, to give over ſtealing from your neigh<g ref="char:EOLhyphen"/>bour, and be content with that you have, and let the peo<g ref="char:EOLhyphen"/>ple alone to the meaſure of God in them, that that may guide them into the way that they may finde bread for their ſoules; and ſeeing you will not enter your ſelves, do not ſhut the kingdome againſt them, in laying ſtumbling blocks before them, and raiſing up falſe accuſations againſt the Light and thoſe that walk in it, and caſting a lie into the mouths of the ignorant people, in ſaying the letter is the word, when the letter declares that the word was in the beginning, by which word the world was made, which word all the Saints and ſervants of God was ever guided by; which word enquired of your father <hi>Caine</hi> for <hi>Abels</hi> blood, which word tranſlated <hi>Enoch,</hi> which word called <hi>Abraham</hi> out of his own country to follow the Lord in a ſtrange land, who was no vagrant perſon, which word
+<pb n="4" facs="tcp:168329:4"/>called <hi>Moſes</hi> from the glory of <hi>Pharaohs</hi> houſe, which word in due time was made mariſeſt in fleſh, who wande<g ref="char:EOLhyphen"/>red up and down n dens and caves of the earth, who had no certaine abiding place, and yet he was no vagabond, whom your generation crucified, who is riſen againe, and hath taken upon him the ſeed of <hi>Abraham,</hi> who is now appeared in this day of his power, to gather up his elect into himſelfe, and to rip off all your deceitfull coverings, and lay you open to the ſhame of the Heathen; and this is the word that we witneſſe to lead and guide and com<g ref="char:EOLhyphen"/>mand us whoſe mindes are ſtaid in it; and this word moves us into your Idols temple, and to other private mee<g ref="char:EOLhyphen"/>tings, to diſcover your Image of mixture of ſeverall opini<g ref="char:EOLhyphen"/>ons, untill you ſtop our mouths, and hale us forth, and de<g ref="char:EOLhyphen"/>liver us up to your Rulers, who ſecond you in your per<g ref="char:EOLhyphen"/>ſecution, who impriſon us, and ſcourge, and ſtock, and ſtone, and deſpitefully uſe us, and by the power of this word are we brought through theſe tribulations, and have joy in the midſt of them, and when we are reviled we re<g ref="char:EOLhyphen"/>vile not againe taking patiently all that you have power in your wills to inflict upon us, and we are made able to deſire the Lord not today theſe things to your charge, and that he would open your eyes that you might ſee what you are a doing, and the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would ſoon ceaſe your rage and finde enough to doe within in your own hearts; and by this word we ſee the Scriptures were given forth from this word, and as we come into theſe ſeverall conditions and meaſures that the Saints were in that ſpake forth this De<g ref="char:EOLhyphen"/>claration, we can ſet to our ſeale that the Scriptures are true, and they are ours that live in the life, and not yours who deſpiſe the life, and feed your ſelves with words, and gather up to your ſelves great riches, in that nature, you eate greedily of the tree of knowledge, and now if you could but get to eate of the tree of life you would ſoon be above God, but that you cannot doe, for there ſtands a flaming ſword that turns every way to keep you out, ſo that all that comes there comes through it and leaves all
+<pb n="5" facs="tcp:168329:4"/>the firſt wiſdome behinde; and therefore if any of you be found worthy to come down to the meaſure of Chriſt and ſubmit your necks to his yoak it will be good for you, but not many rich nor many wiſe doe come to know theſe things; and we have the Promiſe of this word, that he will be with us unto the end of the world, and we know that his Promiſe is yea and amen.</p>
+            <p>And now all people that hath ſobriety, and love to your ſouls, come out from among theſe Idoll dumb Shepheards that feed themſelves, but not you, and if you put not in<g ref="char:EOLhyphen"/>to their mouths they will ſoon ſhew violence to you: come out from among them, and be no longer partaker of their uncleanneſſe, for they are broken ciſterns that can no longer hold water; and come into the fountaine that runs forth freely, the ſtreams whereof would refreſh your hun<g ref="char:EOLhyphen"/>gry fainting ſoules: in my fathers houſe there is bread e<g ref="char:EOLhyphen"/>nough: Oh why will you periſh for hunger? minde the light the meaſure of Chriſt in you, that with it you may ſee where you are, that you may ſee his eternal love, how he calls and invites you into the kingdome, that he may take off your filthy garments, that he may cloath you with the garment of righteouſneſſe, and marry you unto himſelfe; and now the day of his mighty power is appeared, and the fountaine of life ſet open to waſh and cleanſe you from your ſinnes, and baptize you into his death and ſufferings: Oh be not ſtubborn and ſtiffe-necked againſt him, for we that doe follow him doe finde his paths pleaſant pure and ſweet, and the further we follow him in the ſtraight gate and narrow way, we ſee that his love is paſt finding out: And now in the tenderneſſe of my heart longing for your ſoules good am I made open to you, having had a habita<g ref="char:EOLhyphen"/>tion in this City of <hi>London</hi> ſometime; for ſeven years to<g ref="char:EOLhyphen"/>gether I wandered up and down the ſtreets enquiring of thoſe that had the Image of honeſtie in their countenance, where I might finde an honeſt Miniſter, for I ſaw my ſoul in death, and that I was in the firſt nature, and wandring from one Idolls temple to another, and from one private
+<pb n="6" facs="tcp:168329:5"/>meeting to another, I heard a ſound of words amongſt them but no ſubſtance I could finde, and the more I ſought af<g ref="char:EOLhyphen"/>ter them the more trouble came on me, and finding none ſenſible of my condition, I kept it in, and kept all cloſe within me; and about the end of ſeven years hunting, and finding no reſt, the Lord opened a little glimerings of light to me, and quieted my ſpirit; and then for about ſeven years more he kept me ſtill from running after men, and all this time I durſt not meddle with any thing of God, nor ſcarce take his name in my mouth, becauſe I knew him not, it living wilde and wanton not knowing a croſſe to my will I ſpent this time; it ſomething I found breathing in me groaning for deliverance, crying out, oh when ſhall I ſee the day of thy appearance; about the end of the laſt ſeven years the Lord opened my eyes to ſee a meaſure of himſelfe in me, which when I ſaw I waited diligently in it, and being faithfull to it I found this Light more and more increaſe, which brought me into a day of trouble, and through it, and through a warefare and to the end of it, and now hath given me a reſting place with him; <hi>and this is my beloved, and this is my friend O daughters of</hi> Jeruſa<g ref="char:EOLhyphen"/>lem: And now all that have a deſire to come this way muſt lay down your Crowns at the feet of Jeſus, for now a profeſſion of words will no longer cover, for the Lord is come to look for fruit, all types and ſhaddowes is flying away; and he that will come in may inherit ſubſtance, and he that will not ſhall be left naked.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
